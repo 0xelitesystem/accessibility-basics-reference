@@ -6,11 +6,15 @@ This reference covers those basics in plain language, for someone building a sit
 
 ## What is inside
 
-- `01-what-accessibility-means.md` who it is for and why it is not optional
-- `02-text-and-color.md` contrast, not relying on color alone, and real resizable text
-- `03-keyboard-and-focus.md` operating everything without a mouse
-- `04-images-structure-and-forms.md` alt text, headings and landmarks, and labelled forms
-- `05-testing-for-accessibility.md` automated checks, the keyboard test, and real assistive tech
+- [01-what-accessibility-means.md](01-what-accessibility-means.md) who it is for and why it is not optional
+- [02-text-and-color.md](02-text-and-color.md) contrast, not relying on color alone, and real resizable text
+- [03-keyboard-and-focus.md](03-keyboard-and-focus.md) operating everything without a mouse
+- [04-images-structure-and-forms.md](04-images-structure-and-forms.md) alt text, headings and landmarks, and labelled forms
+- [05-testing-for-accessibility.md](05-testing-for-accessibility.md) automated checks, the keyboard test, and real assistive tech
+
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
 
 ## License
 
