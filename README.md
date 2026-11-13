@@ -18,4 +18,4 @@ Part of a catalog of single-file browser tools and plain-language references, al
 
 ## License
 
-MIT. Copyright (c) 2026 0xelitesystem.
+MIT. Copyright (c) 2026 RBL Industries LLC.
